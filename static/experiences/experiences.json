@@ -1,0 +1,100 @@
+{
+  "experiences": [
+    {
+      "name": "Blackberry",
+      "link": "blackberry",
+      "location": "location",
+      "weight": 2,
+      "tags": [
+        "tech"
+      ],
+      "date": "12/05/2023",
+      "short": "My opinion in Blackberry.",
+      "description": "We watched this movie for the first time in my Computer science class in grade 11. I loved it. While it may not be completely accurate to reality, it captures how huge was blackberry for a period of time and how it all fell apart. This movie also fueled my love for older technology. I have always loved it, but the movie gave me a new appreciation for Blackberries. Now, I am planning to get at least one when I get money :)",
+      "photos": [
+        "/static/experiences/university/blackberry.jpg",
+        "/static/experiences/university/movie scene.webp"
+      ]
+    },
+    {
+      "name": "Minority Report",
+      "link": "minority-report",
+      "location": "location",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "date": "17/06/2002",
+      "short": "Minority report is a dystopian movie focusing on surveillance.",
+      "description": "I think what I liked the most about this movie was the visuals. I love retro futurism, especially 2000's futurism. In this movie, there is something called pre-crime. The government can predict when someone is going to commit murder and prevent them from doing so. Surveillance is a huge theme throughout the movie: everyone is constantly watched and identified by their eyes, and the only way to avoid that is by changing them. This movie continues the conversation about the morality of surveillance and of relying on AI as well as privacy, government control, and how much we’re willing to give up in the name of safety. ",
+      "photos": [
+        "/static/experiences/book-club/minreport.jpg",
+        "/static/experiences/book-club/minreport2.jpg"
+      ]
+    },
+    {
+      "name": "Ex Machina",
+      "link": "ex-machina",
+      "location": "location",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "date": "24/04/2015",
+      "short": "Movie about AI.",
+      "description": "We watched this movie last year in class. It is basically about AI. Can it compare to a human? Can it have feelings? In the movie, the AI, Ava seems to do so. But at the end it becomes clear that she was just mimicking emotions. She truly lacked empathy. Trusting her was the main characters downfall. This movie makes me think about the ethics of continuing advancing AI and the growing reliance in it.",
+      "photos": [
+        "/static/experiences/book-club/exmachina.jpg",
+        "/static/experiences/book-club/exmachina2.jpg"
+      ]
+    },
+    {
+      "name": "Kamikaze Girls",
+      "link": "kamikaze-girls",
+      "location": "location",
+      "weight": 2,
+      "tags": [
+        "comedy"
+      ],
+      "date": "29/05/2004",
+      "short": "A cute japanese movie!",
+      "description": "I think I watched this movie 2 years ago for the first time? This is my favourite movie! It is so fun and it influenced my art and fashion style in a huge way! This movie does not have a lot to do with Computer Science but it has influenced me in other ways. It is about a Lolita girl and a yankii girl and their unlikely frienship. Their personalities clash and compliment each other at the same time. Kamikaze Girls has truly impacted me and it is usually part of my though process when making art.                              ",
+      "photos": [
+        "/static/experiences/book-club/kamikazegirls.jpg",
+        "/static/experiences/book-club/kamikazegirls2.jpg"
+      ]
+    },
+    {
+      "name": "Helter Skelter (2012)",
+      "link": "helter-skelter",
+      "location": "location",
+      "weight": 2,
+      "tags": [
+        "psych horror"
+      ],
+      "date": "14/07/2012",
+      "short": "Japanese horror movie about beauty standards.",
+      "description": "THIS MOVIE IS SO GOOD!!! It handles themes like beauty standards and the obssession with perfection in an amazing way. It shows, through the main character, the effects the pressure to be beautiful can take on someone, especially in a world there is going to be someone younger and prettier than you eventually. What I also really appreciated about this movie is how it incorporates elements of gyaru culture reflected in the teenage fans of the main character.                                        ",
+      "photos": [
+        "/static/experiences/book-club/helterskelter2012.jpg",
+        "/static/experiences/book-club/helterskelter2.jpg"
+      ]
+    },
+    {
+      "name": "The Social Network",
+      "link": "the-social-network",
+      "location": "location",
+      "weight": 2,
+      "tags": [
+        "tech"
+      ],
+      "date": "01/10/2010",
+      "short": "Movie about the origins of Facebook.",
+      "description": "This movie was interesting. I watched it last year in class. It depicts the origins of Facebook. How it went from a university app to a global empire. I like how it does not sugarcoat the behaviour of Mark Zuckerberg and does not depict him as the hero, and how modt of the characters are morally grey. It is a really interesting movie and I did enjoy it",
+      "photos": [
+        "/static/experiences/book-club/thesocialnetwork.png",
+        "/static/experiences/book-club/thesocialnetwork2.webp"
+      ]
+    }
+  ]
+}

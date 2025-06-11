@@ -1,0 +1,133 @@
+/* Title styling */
+#title {
+  background-color: #fff5d8;
+  color: #f7b2c2;
+  font-weight: bold;
+  padding: 0.3px 10px;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 1.2rem;
+}
+
+/* Icon styling */
+.icon {
+  font-size: 0.9rem;
+  display: inline-flex;
+  background: #D8D8D8;
+  border-radius: 3px;
+  margin-right: 5px;
+  margin-bottom: 15px;
+}
+.icon span {
+  border-radius: 5px;
+  padding: 3px 5px;
+}
+
+/* React tag styling */
+.react {
+  background: #738091;
+}
+.react span::after {
+  content: "React.js";
+  color: white;
+}
+
+/* Card container */
+.card {
+  border-radius: 20px;
+  overflow: hidden;
+  margin: 10px;
+  max-height: 325px;
+  min-height: 325px;
+  max-width: 320px;
+  background: #f7b2c2;
+  color: #7e5644;
+  background-image: url("/static/images/cute.jpg"); 
+  background-repeat: repeat;     
+  background-size: auto;            
+  background-attachment: scroll; 
+}
+
+/* Image inside the card */
+.card .card-image {
+  
+  max-width: 400px;
+  display: flex;
+  justify-content: center;
+}
+.card .card-image img.card-image {
+  max-height: 180px;
+  min-height: 180px;
+  width: auto;
+}
+
+/* Card content title */
+.card-title {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* Chips inside card */
+.md-chip-link {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+/* Status label */
+.status {
+  color: #7e5644;
+}
+
+/* Outer scroll container */
+.container-outer {
+  overflow: hidden;
+}
+
+/* Inner scroll container */
+.container-inner {
+  white-space: nowrap;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  margin-bottom: -25px; /* hide scrollbar */
+  padding-bottom: 25px;
+}
+
+/* Read More link */
+.read-more-link {
+  color: #7e5644;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+.read-more-link:hover {
+  text-decoration: underline;
+  color: #ff9aab;
+}
+
+/* Card reveal panel (flipped side) */
+div.card .card-reveal {
+  background-color: #f7b2c2;
+  color: #fff5d8;
+  border-radius: 20px;
+  padding: 16px;
+}
+
+
+/* Title on the flipped card */
+.card-reveal .card-title {
+  color: #7e5644;
+  font-weight: bold;
+  overflow: auto;
+  white-space: normal;
+  text-overflow: unset;
+}
+
+/* Paragraph (short description) inside reveal */
+.card-reveal p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-top: 12px;
+}
+
+

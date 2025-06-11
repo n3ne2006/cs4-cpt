@@ -1,0 +1,37 @@
+[
+  {
+    "year": "2025",
+    "events": [
+      {
+        
+        "title": "Graduating highschool",
+        "content": "This is my last year in highschool. It's weird. I'll kinda miss this."
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "events": [
+      {
+        
+        "title": "First time to take a computer science course",
+        "content": "I chose to take computer science as one of my electives. I had always been midly interested in it because it is what my dad does for work. I did enjoy it!"
+      }
+    ]
+  },
+  {
+    "year": "2021",
+    "events": [
+      {
+        
+        "title": "Started Highschool",
+        "content": "First school in new country! I was so scared of talking in a new language but I was able to!"
+      },
+      {
+        
+        "title": "Moved to canada",
+        "content": "I finally moved from Peru to Canada! It was a big adjustment but it was the best decisions my parents made. I can't imagine myself still living in Peru."
+      }
+    ]
+  }
+]

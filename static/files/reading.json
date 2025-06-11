@@ -1,0 +1,45 @@
+[
+  {
+    "year": "Reading list",
+    "books": [
+      {
+        "name": "Animal Farm, George Orwell",
+        "review": "Since I read 1984 I have been wanting to read this one. I love dystopia!"
+      }
+      
+    ]
+  },
+  {
+    "year": "2025",
+    "books": [
+      {
+        "name": "Minority Report",
+        "review": "This book is pretty interesting, similar to the movie, it talks about surveillance, overreliance in AI, and its negatives effects. It also talks about free will and fate, which I always find interesting."
+      },
+      {
+        "name": "Zero to One",
+        "review": "I think this book is specially important in this era. Instead of AI taking over human jobs, what if we work together? There are so many things humans are better at, and viceversa, so the best thing to do is work with it. I appreciate that this book gives an optimistic point of view on this area."
+      }
+    ]
+  },
+  {
+    "year": "2024",
+    "books": [
+
+      {
+        "name": "1984, George Orwell",
+        "review": "I read this for english class. I love this book. Even though the actual action was boring for me, the work building and how their world works was so interesting. Even thoughts are crimes in this world, and the government constantly rewrites history and punishes anyone that is against them. "
+      }
+    ]
+  },
+  {
+    "year": "2023",
+    "books": [
+
+      {
+        "name": "Brave New World, Adolf Huxley",
+        "review": "When I read this book I could not believe it was written in the 30's. It is so creepy how everyone seems so happy, they do not experience negative emotions whatsoever."
+      }
+    ]
+  }
+]

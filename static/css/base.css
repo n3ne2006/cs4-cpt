@@ -1,0 +1,58 @@
+body {
+  height:100vh;
+  font-family: "Jost", sans-serif;
+   background-color: #ffe4cb;
+}
+
+.navbar-ref {
+  color: #ffd1e0;
+  font-family: "Jost", sans-serif;
+  font-size: 16px;
+}
+
+
+/*top strip*/
+.navbar-ul {
+    background-color: #7e5644;
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    background-image: url("/static/images/terminal.jpg"); 
+    background-repeat: repeat;     
+    background-size: auto;            
+    
+    background-attachment: scroll; 
+}
+
+.list-inline {
+  display: flex;
+  text-decoration: none;
+  justify-content: space-around;
+  margin:20px 0;
+  width: 50%;
+}
+
+@media only screen and (max-width: 1094px) {
+  .list-inline {
+    width: 100%;
+  }
+ /*top text*/
+  .navbar-ref {
+    color: #ffd1e0;
+    font-family: "Bellota", system-ui;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+}
+
+/* to select text */
+a::selection,
+span::selection {
+  background: rgba(255, 144, 181, 0.55); /* WebKit/Blink Browsers */
+}
+
+a::selection,
+span::-moz-selection {
+  background: rgba(255, 144, 181, 0.55); /* Gecko Browsers */
+}

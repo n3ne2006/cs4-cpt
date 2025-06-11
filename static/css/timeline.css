@@ -1,0 +1,52 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #ffe4cb; /* Vanilla */
+  font-family: 'Open Sans', sans-serif;
+}
+
+.date {
+  font-family: "Jost", sans-serif;
+  display:block;
+  color: #7e5644;
+  font-size: 20px;
+}
+
+.title{
+  font-family: "Jost", sans-serif;
+  color: #ffb2cc;
+  font-size: 16px;
+  margin: 4px;
+  font-weight:500;
+}
+
+.title:hover {
+  text-decoration: none !important;
+  color: #ffa1c0;
+}
+
+.content{
+  font-family: "Jost", sans-serif;
+  display:block;
+  color: #7e5644;
+  margin:4px;
+  font-weight:300;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #ffe9cf; /* Optional block color */
+  border-radius: 8px;
+}
+
+.icon-title{
+    display: flex;
+    align-items: center;
+}
+
+.list {
+  list-style-type:none;
+}

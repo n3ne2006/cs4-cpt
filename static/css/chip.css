@@ -1,0 +1,65 @@
+.md-chips {
+  .md-chip {
+    margin: 0 5px 3px 0;
+  }
+}
+
+.md-chips-center {
+  justify-content: center;
+  display: flex;
+}
+
+.md-chip {
+  display: inline-block;
+  background: #7e5644;
+  padding: 0 12px;
+  border-radius: 32px;
+  font-size: 12px;
+  &.md-chip-hover:hover {
+    background: #7e5644;
+  }
+}
+
+.md-chip-icon {
+  display: block;
+  float: left;
+  background: #ffebc0;
+  width: 32px;
+  border-radius: 50%;
+  text-align: center;
+  color: rgb(255, 227, 227);
+  margin: 0 8px 0 -12px;
+}
+
+
+.md-chip-clickable {
+ cursor: pointer;
+}
+
+.md-chip-link{
+  color: #ffe6c2;
+}
+
+.md-chip-link:hover {
+  text-decoration: none;
+}
+
+.md-chip-remove {
+  display: inline-block;
+  background: #f7b2c2;
+  border: 0;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  padding: 0;
+  margin: 4px -4px 4px 4px;
+  cursor: pointer;
+  font: inherit;
+  line-height: 20px;
+  color: #ffebd4;
+}
+
+.md-chip-remove-span {
+  margin:0 0px 0px 6px;
+  color:#ffecc9;
+}

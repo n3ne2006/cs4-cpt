@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "name": "Save Earth",
+      "link": "project-2",
+      "date": "06/2024",
+      "short": "Game where you try to keep Earth alive.",
+      "status": "complete",
+      "weight": 4,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-2/img.png", 
+        "/static/projects/project-2/img2.png"
+      ]
+    },
+    {
+      "name": "Pink Punk",
+      "link": "project-1",
+      "date": "04/2024",
+      "short": "Wallpaper",
+      "status": "complete",
+      "weight": 3,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/project-1/pimg.png",
+        "/static/projects/project-1/pimg2.png"
+      ]
+    },
+    {
+      "name": "Surveillance",
+      "link": "surveillance",
+      "date": "2025",
+      "short": "Surveillance Program",
+      "status": "complete",
+      "weight": 2,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/surveillance/surveillance.png"
+      ]
+    },
+    {
+      "name": "Map!",
+      "link": "mapify",
+      "date": "2025",
+      "short": "Map that shows you volcanoes.",
+      "weight": 2,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/mapify/mapify.png"
+      ]
+    },
+    {
+      "name": "Shopping Helper",
+      "link": "shopping-helper",
+      "date": "2025",
+      "short": "App that helps you shop in other currencies",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/shopping-helper/shopping-helper.png"
+      ]
+    },
+    {
+      "name": "Extractify",
+      "link": "extractify",
+      "date": "2025",
+      "short": "App that extracts text from websites.",
+      "status": "complete",
+      "weight": 1,
+      "tags": [
+        "tech"
+      ],
+      "photos": [
+        "/static/projects/extractify/extractify.png"
+      ]
+    }
+  ]
+}

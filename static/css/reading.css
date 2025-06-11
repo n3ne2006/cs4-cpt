@@ -1,0 +1,51 @@
+body {
+  height:100vh;
+  
+  background-color: #ffe4cb;
+}
+.date {
+  font-family: "Jost", sans-serif;
+  display:block;
+  color: #f5a7c1;
+  margin:10px;
+  font-size: 20px;
+}
+
+.title{
+  font-family: "Jost", sans-serif;
+  color: #7e5644;
+  font-size: 16px;
+  margin: 4px;
+  font-weight:500;
+}
+
+.title:hover {
+  text-decoration: none !important;
+}
+
+.content{
+  display:block;
+  color: #f5a7c1;
+  margin:4px;
+  font-weight:300;
+  font-family: "Jost", sans-serif;
+}
+
+.container{
+  max-width:750px;
+}
+
+.icon-title{
+    
+    display: flex;
+    align-items: center;
+}
+
+.list {
+  list-style-type:none;
+}
+
+.item {
+    margin-top:10px;
+    margin-bottom:10px;
+}
